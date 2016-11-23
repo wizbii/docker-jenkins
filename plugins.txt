@@ -62,3 +62,4 @@ github:1.23.0
 display-url-api:0.5
 pipeline-stage-view:2.2
 build-timeout:1.18
+ansicolor:0.4.3
